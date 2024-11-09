@@ -1,5 +1,5 @@
-let githubUser = 'aincomnpd'
-let repo = 'aincomnpd.github.io'
+let githubUser = 'seaboie'
+let repo = 'images'
 let imgFolder = 'images'
 
 async function login() {
@@ -10,7 +10,7 @@ async function login() {
     const usernameMD5 = CryptoJS.MD5(username).toString();
     const passwordMD5 = CryptoJS.MD5(password).toString();
 
-    const response = await fetch('https://script.google.com/macros/s/AKfycbzQhP5XegbNgUsyZZ6nuGWbMekg-jyOJGf_rti2bYecFMcVI6kiVm5upfpXSiRCNFpt/exec');
+    const response = await fetch('https://script.google.com/macros/s/AKfycbykejVuVB-GyMEtRTFo9ERAcltBLHD2WNXGlZtoJphTdhOKNh7A23fyMnviBojnzcpPAw/exec');
     const users = await response.json();
 
     const user = users.find(u => u['ชื่อผู้ใช้'] === usernameMD5 && u['รหัสผ่าน'] === passwordMD5);
