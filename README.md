@@ -24,14 +24,8 @@ we must to create new folder in `images` folder , that to be `Album name`
 
 > **Example** this is `images/logo/logoTransparent.png` folder to be `logo album` insert new images to folder logo  
 
-<img src="https://raw.githubusercontent.com/seaboie/images/raw/refs/heads/main/images/vdo/getId.mp4" alt="somethings">
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/seaboie/images/raw/refs/heads/main/images/vdo/getId.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-# test
 
 
 
