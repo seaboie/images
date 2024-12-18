@@ -3,6 +3,10 @@
 ## Go to Web page  
 ``` Settings > Pages ```  
 
+```js
+https://seaboie.github.io/images/
+```
+
 [website](https://seaboie.github.io/images/)  
 
 ## Database on google sheet  
