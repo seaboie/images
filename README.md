@@ -26,9 +26,7 @@ we must to create new folder in `images` folder , that to be `Album name`
 
 
 
-<img width="814" alt="Screenshot 2567-12-12 at 12 39 37" src="https://github.com/user-attachments/assets/da125bd1-f617-403c-9340-5bf2f50bcb25" />
 
 
 
-https://github.com/user-attachments/assets/66da7190-1270-42fa-b3d6-0560401ca6d4
 
